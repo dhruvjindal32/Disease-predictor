@@ -3,11 +3,11 @@ Three in one Disease Predictor (Common Disease, Heart Disease and Covid-19 Predi
 
 ## Output:
 
-![plot](Images/MainScreen.jpg)
+![plot](MainScreen.jpg)
 
-![plot](Images/CommonDiseasePredictor.jpg)
+![plot](CommonDiseasePredictor.jpg)
 
-![plot](Images/HeartDiseasePredictor.jpg)
+![plot](HeartDiseasePredictor.jpg)
 
-![plot](Images/Covid19Predictor.jpg)
+![plot](Covid19Predictor.jpg)
 
